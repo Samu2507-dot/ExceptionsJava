@@ -22,6 +22,16 @@ public class Principal {
             servicio.registrarUsuario("Pedro Rodriguez", -5);
         } catch (EdadInvalidaException e) {
             System.err.println("Error al registrar usuario (Caso 3): " + e.getMessage());
-        }       
+        }
+        System.out.println("------------------------------------");
+        //Caso 4: Usuario poco probable, mayor a 120 años
+        try {
+            servicio.registrarUsuario("Enrique Calzoski", 160);
+        } catch (EdadInvalidaException e) {
+            System.err.println("Error al registrar usuario (Caso 3): " + e.getMessage());
+        }
+        
+        
+        
     }    
 }
