@@ -3,8 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/FP/Documents/NetBeansProjects/Excepciones/src/MultiCatch/NewClass.java</file>
-            <file>file:/C:/Users/FP/Documents/NetBeansProjects/Excepciones/src/GestionDeEscaner/Escaner.java</file>
+            <file>file:/C:/Users/FP/Documents/NetBeansProjects/Excepciones/src/ExcepcionPersonal/Principal.java</file>
+            <file>file:/C:/Users/FP/Documents/NetBeansProjects/Excepciones/src/ExcepcionPersonal/EdadInvalidaException.java</file>
+            <file>file:/C:/Users/FP/Documents/NetBeansProjects/Excepciones/src/ExcepcionPersonal/ServicioUsuario.java</file>
         </group>
     </open-files>
 </project-private>
